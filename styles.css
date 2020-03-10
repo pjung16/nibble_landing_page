@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,600&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -27,7 +29,7 @@ nav {
 }
 
 .nav-buttons button:first-child {
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: bold;
   font-size: 37.5px;
@@ -74,7 +76,7 @@ nav {
 }
 
 .extension-header {
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: bold;
   font-size: 37.5px;
@@ -83,7 +85,7 @@ nav {
 
 .extension-info {
   margin-top: 10px;
-  font-family: Open Sans;
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 600;
   font-size: 22.5px;
@@ -94,7 +96,7 @@ nav {
 .green-button {
   margin-top: 50px;
   padding: 15px 15px;
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: bold;
   font-size: 37.5px;
@@ -139,7 +141,7 @@ nav {
 }
 
 .text-block-header {
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: bold;
   font-size: 37.5px;
@@ -147,7 +149,7 @@ nav {
 }
 
 .text-block-content {
-  font-family: Open Sans;
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 600;
   font-size: 22.5px;
@@ -170,7 +172,7 @@ img {
 }
 
 .bottom-text {
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: bold;
   font-size: 37.5px;
@@ -193,7 +195,7 @@ footer {
   flex-direction: column;
   align-items: center;
   margin-bottom: 100px;
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-weight: normal;
   font-size: 15px;
 }
